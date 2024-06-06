@@ -49,7 +49,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgresql,sequelize,cloudinary" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,vuejs,tanstack,reactnative" />
+  <img src="https://skillicons.dev/icons?i=python,vuejs,tanStack,reactNative" />
   <br>
 </p>
 
