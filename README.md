@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasif46&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasif46" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadasif46" alt="muhammadasif46" /></a> </p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <h3 align="center">MERN Stack Developer. Building dynamic and user friendly web applications| Committed learner"</h3>
 
@@ -58,14 +58,27 @@
 <br/>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasif46&show_icons=true&locale=en&layout=compact" alt="muhammadasif46" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasif46&theme=dark&hide_border=true&show_icons=true&count_private=true" />
 </div>
 
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadasif46&show_icons=true&locale=en" alt="muhammadasif46" />
-</div>
+<br/>
 
 <div  align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadasif46&" alt="muhammadasif46" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadasif46&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
+<br/>
+
+<div align="center">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadasif46&show_icons=true&locale=en" alt="muhammadasif46" /> -->
+</div>
+
+<br/>
+
+### ✍️ Random Dev Quote
+
+<br/>
+
+<div align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadasif46&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" /> 
+</div>
