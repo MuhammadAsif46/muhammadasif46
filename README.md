@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasif46&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasif46" /> </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
-<h3 align="center">MERN Stack Developer. Building dynamic and user friendly web applications| Committed learner"</h3>
+<h3 align="center">I'm a MERN Stack developer passionate about Building dynamic and user friendly web applications.</h3>
 
 <br/>
 
@@ -47,9 +47,9 @@
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=docker,graphql,mysql,aws,jest,kubernetes" />
   <br>
-  <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgresql,sequelize,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgreSql,Sequelize,cloudinary" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,vuejs,tanStack,reactNative" />
+  <img src="https://skillicons.dev/icons?i=python,vuejs,Tanstack,react" />
   <br>
 </p>
 
