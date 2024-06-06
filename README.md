@@ -45,13 +45,14 @@
 <br/>
 
 <p align='center'>
-<img src="https://skillicons.dev/icons?i=docker,graphql,mysql,aws,jest,kubernetes" />
-<br>
-<img src="https://skillicons.dev/icons?i=opencv,googlecloud,Postgresql,Sequelize",cloudinary" />
-<br>
-<img src="https://skillicons.dev/icons?i=python,vuejs,tanstack,reactnative" />
-<br>
+  <img src="https://skillicons.dev/icons?i=docker,graphql,mysql,aws,jest,kubernetes" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgresql,sequelize,cloudinary" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,vuejs,tanstack,reactnative" />
+  <br>
 </p>
+
 
 ## 📊 GitHub Stats:
 
@@ -75,7 +76,7 @@
 
 <br/>
 
-### ✍️ Random Dev Quote
+## 🏆 GitHub Trophies
 
 <br/>
 
