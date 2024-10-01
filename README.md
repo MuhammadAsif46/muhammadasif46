@@ -45,7 +45,7 @@
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,.net,jest,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
