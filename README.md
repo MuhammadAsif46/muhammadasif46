@@ -37,7 +37,7 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=typescript,angular" />
+<img src="https://skillicons.dev/icons?i=angular,aws" />
 <h3>Typescript | Angular</h3>
 
 ## 🎯 Plans Of Learning:
@@ -45,11 +45,11 @@
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,aws,jest,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,graphql,Restapi,jest,kubernetes" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=opencv,googlecloud,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,postgresql,mysql" />
   <br>
 </p>
 
