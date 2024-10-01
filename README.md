@@ -38,14 +38,14 @@
 ## 💡 I am currently learning
 
 <img src="https://skillicons.dev/icons?i=angular,aws" />
-<h3>Typescript | Angular</h3>
+<h3>Angular | AWS </h3>
 
 ## 🎯 Plans Of Learning:
 
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,Restapi,jest,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker,graphql,.net,jest,kubernetes" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
