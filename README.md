@@ -38,7 +38,10 @@
 ## 💡 I am currently learning
 
 <img src="https://skillicons.dev/icons?i=mysql,aws,supabase,ajax,gsap" />
-<h3>MySql | AWS | Supabase | Ajax | GSAP </h3>
+<img src="https://raw.githubusercontent.com/muhammadasif46/muhammadasif46/main/icons/zustand.svg" alt="Zustand" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/muhammadasif46/muhammadasif46/main/icons/shadcn.svg" alt="shadcn" width="48" height="48" />
+<img src="https://tanstack.com/logo.svg" alt="TanStack Query" width="48" height="48" />
+<h3>MySql | AWS | Supabase </h3>
 
 ## 🎯 Plans Of Learning:
 
