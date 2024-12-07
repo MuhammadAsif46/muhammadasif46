@@ -37,7 +37,7 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=mysql,aws,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,aws,supabase,scss,sass" />
 <h3>MySql | AWS | Supabase </h3>
 
 ## 🎯 Plans Of Learning:
