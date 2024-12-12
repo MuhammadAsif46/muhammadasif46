@@ -45,11 +45,11 @@
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes,nestjs" />
+  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes"/>
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,postgresql,mysql,nestjs" />
   <br>
 </p>
 
