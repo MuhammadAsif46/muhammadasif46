@@ -51,7 +51,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,postgresql,nestjs" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,postgresql,nestjs,prisma" />
   <br>
 </p>
 
