@@ -30,7 +30,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=appwrite,npm,angular,vite,postman,figma" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,vite,vscode" />
 </p>
 
 ![NextAuth](https://img.shields.io/badge/nextauth-18171f.svg?style=for-the-badge&logo=nextauth&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-252525?style=for-the-badge&logo=pwa&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![ChakraUI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![RadixUI](https://img.shields.io/badge/RadixUI-252525?style=for-the-badge&logo=radixui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Pinecone](https://img.shields.io/badge/pinecone-0099ff.svg?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -47,11 +47,13 @@
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes,mocha"/>
+  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes,c"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
+  <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java,gitlab" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,jquery,webpack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=redis,flutter,wasm,nuxtjs,svelte,babel" />
   <br>
 </p>
 
