@@ -39,7 +39,7 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=prisma,aws,supabase,shadcn" />
+<img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
 <h3>Prisma | AWS | Supabase </h3>
 
 ## 🎯 Plans Of Learning:
@@ -51,7 +51,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,stripe,paypal" />
   <br>
 </p>
 
