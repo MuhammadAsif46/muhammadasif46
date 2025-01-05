@@ -47,11 +47,11 @@
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes,mocha"/>
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,stripe,paypal" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma" />
   <br>
 </p>
 
