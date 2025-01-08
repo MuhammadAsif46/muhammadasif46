@@ -39,8 +39,8 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
-<h3>Prisma | AWS | Supabase </h3>
+<img src="https://skillicons.dev/icons?i=mongodb,aws,supabase" />
+<h3>MongoDb | AWS | Supabase </h3>
 
 ## 🎯 Plans Of Learning:
 
