@@ -40,7 +40,7 @@
 ## 💡 I am currently learning
 
 <img src="https://skillicons.dev/icons?i=mongodb,aws,supabase" />
-<h3>MongoDb | AWS | Supabase </h3>
+<h3>MongoDb | AWS | Supabase | TanStack </h3>
 
 ## 🎯 Plans Of Learning:
 
