@@ -39,7 +39,7 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=prisma,aws,supabase,reactquery" />
+<img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
 <h3>Prisma | AWS | Supabase | TanStack </h3>
 
 ## 🎯 Plans Of Learning:
