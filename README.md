@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 </p>
-<h3>Prisma | AWS | Supabase | TanStack </h3>
+<h3>Prisma | AWS | Supabase | TanStack | GSAP </h3>
 
 ## 🎯 Plans Of Learning:
 
