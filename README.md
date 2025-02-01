@@ -39,7 +39,10 @@
 
 ## 💡 I am currently learning
 
-<img src="https://skillicons.dev/icons?i=prisma,aws,supabase,reactquery" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
+  <img src="https://github.com/TanStack/query/raw/main/media/repo-header.png" width="48" height="48" />
+</p>
 <h3>Prisma | AWS | Supabase | TanStack </h3>
 
 ## 🎯 Plans Of Learning:
