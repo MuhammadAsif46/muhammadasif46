@@ -41,7 +41,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
-  <img src="https://github.com/TanStack/query/raw/main/media/repo-header.png" width="48" height="48" />
+<!--   <img src="https://github.com/TanStack/query/raw/main/media/repo-header.png" width="48" height="48" /> -->
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.svg" width="48" height="48" />
 </p>
 <h3>Prisma | AWS | Supabase | TanStack </h3>
 
