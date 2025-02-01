@@ -41,7 +41,7 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=prisma,aws,supabase" />
-<img src="https://greensock.com/uploads/monthly_2022_09/gsap-logo.svg" width="48" height="48" />
+<img src="https://simpleicons.org/?q=react-query" />
 </p>
 <h3>Prisma | AWS | Supabase | TanStack </h3>
 
