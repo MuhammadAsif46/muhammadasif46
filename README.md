@@ -30,7 +30,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=appwrite,npm,angular,vite,postman,figma" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,vite,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 </p>
 
@@ -41,8 +41,8 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=aws,reactnative" />
+
 </p>
 <h3>AWS | ReactNative | GSAP </h3>
 
