@@ -30,7 +30,7 @@
 <br>
 <img src="https://skillicons.dev/icons?i=appwrite,npm,angular,vite,postman,figma" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,materialui" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 </p>
 
@@ -58,6 +58,8 @@
   <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,jquery,webpack" />
   <br>
   <img src="https://skillicons.dev/icons?i=redis,flutter,wasm,nuxtjs,svelte,babel" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=fastapi,linux,nginx,ubuntu" />
   <br>
 </p>
 
