@@ -59,7 +59,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=redis,flutter,wasm,nuxtjs,svelte,babel" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,linux,nginx,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=fastapi,linux,nginx,ubuntu,yarn,bun" />
   <br>
 </p>
 
