@@ -41,7 +41,7 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,reactnative" />
+<img src="https://skillicons.dev/icons?i=aws,react" />
 
 </p>
 <h3>AWS | ReactNative | GSAP </h3>
