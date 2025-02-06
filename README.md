@@ -57,7 +57,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,jquery,webpack" />
   <br>
-  <img src="https://skillicons.dev/icons?i=redis,flutter,wasm,nuxtjs,svelte,babel" />
+  <img src="https://skillicons.dev/icons?i=redis,flutter,nuxtjs,svelte" />
   <br>
   <img src="https://skillicons.dev/icons?i=fastapi,linux,nginx,ubuntu,yarn,bun" />
   <br>
