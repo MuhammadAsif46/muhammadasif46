@@ -53,7 +53,7 @@
 <p align='center'>
   <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes,c"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,vuejs,django,heroku,java,gitlab" />
+  <img src="https://skillicons.dev/icons?i=python,vuejs,django,java,gitlab" />
   <br>
   <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,jquery,webpack" />
   <br>
