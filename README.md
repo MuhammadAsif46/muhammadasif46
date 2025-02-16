@@ -41,25 +41,25 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,react" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jquery" />
 
 </p>
-<h3>AWS | ReactNative | GSAP </h3>
+<h3>AWS | Docker | jQuery </h3>
 
 ## 🎯 Plans Of Learning:
 
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=docker,graphql,dotnet,jest,kubernetes,c"/>
+  <img src="https://skillicons.dev/icons?i=nginx,graphql,dotnet,jest,kubernetes,c"/>
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,java,gitlab,babel" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,jquery,webpack" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,fastapi,webpack" />
   <br>
   <img src="https://skillicons.dev/icons?i=redis,flutter,nuxtjs,dart,androidstudio,azure" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,linux,nginx,ubuntu,yarn,bun" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,yarn,bun" />
   <br>
 </p>
 
