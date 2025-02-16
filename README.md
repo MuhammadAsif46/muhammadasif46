@@ -59,7 +59,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=redis,flutter,nuxtjs,dart,androidstudio,azure" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,yarn,bun" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,yarn,bun"/>
   <br>
 </p>
 
