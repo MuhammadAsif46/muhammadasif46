@@ -43,10 +43,10 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,jquery" />
+<img src="https://skillicons.dev/icons?i=aws,nestjs,jquery" />
 
 </p>
-<h3>AWS | Docker | jQuery </h3>
+<h3>AWS | Nestjs | jQuery </h3>
 
 ## 🎯 Plans Of Learning:
 
@@ -57,7 +57,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=python,vuejs,django,java,gitlab,babel" />
   <br>
-  <img src="https://skillicons.dev/icons?i=flask,googlecloud,nestjs,prisma,fastapi,webpack" />
+  <img src="https://skillicons.dev/icons?i=flask,googlecloud,docker,prisma,fastapi,webpack" />
   <br>
   <img src="https://skillicons.dev/icons?i=redis,flutter,nuxtjs,dart,androidstudio,azure" />
   <br>
