@@ -44,8 +44,9 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,python,pandas,numpy" />
-<!--  for devicon plain version colored with devicon main color -->
-<i class="devicon-devicon-plain colored"></i>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 </p>
 <h3>AWS | Python | Pandas | Numpy </h3>
