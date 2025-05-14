@@ -44,8 +44,8 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,python,pandas,numpy" />
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://simpleicons.org/icons/pandas.svg" height="40"/>
+<img src="https://simpleicons.org/icons/numpy.svg" height="40"/>
 
 
 </p>
