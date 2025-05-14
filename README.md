@@ -44,6 +44,8 @@
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,python,pandas,numpy" />
+<!--  for devicon plain version colored with devicon main color -->
+<i class="devicon-devicon-plain colored"></i>
 
 </p>
 <h3>AWS | Python | Pandas | Numpy </h3>
