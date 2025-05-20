@@ -45,7 +45,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,python" />
 </p>
-<h3>AWS | Python | Pandas | Numpy </h3>
+<h3>AWS | Python </h3>
 
 ## 🎯 Plans Of Learning:
 
