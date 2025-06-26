@@ -43,7 +43,7 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,python,reactnative" />
+<img src="https://skillicons.dev/icons?i=aws,python,react" />
 </p>
 <h3>AWS | Python | ReactNative </h3>
 
