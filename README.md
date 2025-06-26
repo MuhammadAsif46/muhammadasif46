@@ -43,9 +43,9 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,python" />
+<img src="https://skillicons.dev/icons?i=aws,python,reactnative" />
 </p>
-<h3>AWS | Python </h3>
+<h3>AWS | Python | ReactNative </h3>
 
 ## 🎯 Plans Of Learning:
 
