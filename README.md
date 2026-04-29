@@ -43,18 +43,18 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,python,react,kafka" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
-<h3>AWS | Python | ReactNative | Kafka </h3>
+<h3> Java | Springboot </h3>
 
 ## 🎯 Plans Of Learning:
 
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=nginx,graphql,dotnet,jest,kubernetes,c"/>
+  <img src="https://skillicons.dev/icons?i=nginx,graphql,python,jest,kubernetes,c,"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=nestjs,vuejs,django,java,gitlab,babel" />
+  <img src="https://skillicons.dev/icons?i=nestjs,vuejs,django,AWS,gitlab,kafka" />
   <br>
   <img src="https://skillicons.dev/icons?i=flask,googlecloud,docker,prisma,fastapi,webpack" />
   <br>
