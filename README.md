@@ -30,9 +30,9 @@
 <br>
 <img src="https://skillicons.dev/icons?i=appwrite,npm,angular,vite,postman,figma" />
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,materialui" />
+<img src="https://skillicons.dev/icons?i=mysql,scss,postgresql,supabase,materialui,jquery" />
 <br>
-<img src="https://skillicons.dev/icons?i=yarn,bun,jquery" />
+<img src="https://skillicons.dev/icons?i=yarn,bun" />
 <br>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/reactquery.svg" width="48" height="48" />
 </p>
