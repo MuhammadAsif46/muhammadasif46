@@ -52,9 +52,9 @@
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=nginx,graphql,python,jest,kubernetes,c,"/>
+  <img src="https://skillicons.dev/icons?i=nginx,graphql,python,jest,kubernetes,c"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=nestjs,vuejs,django,AWS,gitlab,kafka" />
+  <img src="https://skillicons.dev/icons?i=nestjs,vuejs,django,aws,gitlab,kafka" />
   <br>
   <img src="https://skillicons.dev/icons?i=flask,googlecloud,docker,prisma,fastapi,webpack" />
   <br>
