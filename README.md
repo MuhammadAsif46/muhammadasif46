@@ -44,16 +44,16 @@
 ## 💡 I am currently learning
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
-<h3> Java | Springboot </h3>
+<h3> Python | Java </h3>
 
 ## 🎯 Plans Of Learning:
 
 <br/>
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=nginx,graphql,python,jest,kubernetes,c"/>
+  <img src="https://skillicons.dev/icons?i=nginx,graphql,spring,jest,kubernetes,c"/>
   <br>
   <img src="https://skillicons.dev/icons?i=nestjs,vuejs,django,aws,gitlab,kafka" />
   <br>
